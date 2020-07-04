@@ -1,1 +1,1 @@
-Sitemap: https://imvladikon.github.io/blog-hashtag/sitemap.xml
+Sitemap: https://hashtag.ru/sitemap.xml
