@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://imvladikon.github.io/blog-hashtag/markdown/2020/01/14/test-markdown-post.html</loc>
-<lastmod>2020-01-14T00:00:00-06:00</lastmod>
+<loc>https://imvladikon.github.io/blog-hashtag/2019/10/15/first_post.html</loc>
+<lastmod>2019-10-15T02:45:16-05:00</lastmod>
+</url>
+<url>
+<loc>https://imvladikon.github.io/blog-hashtag/2019/11/15/about-vscode.html</loc>
+<lastmod>2019-11-15T02:15:16-06:00</lastmod>
+</url>
+<url>
+<loc>https://imvladikon.github.io/blog-hashtag/2019/11/21/jupyter.html</loc>
+<lastmod>2019-11-21T03:25:16-06:00</lastmod>
+</url>
+<url>
+<loc>https://imvladikon.github.io/blog-hashtag/2020/01/12/deep-learning-java.html</loc>
+<lastmod>2020-01-12T03:59:16-06:00</lastmod>
+</url>
+<url>
+<loc>https://imvladikon.github.io/blog-hashtag/2020/01/12/pandas-helps-us-csv.html</loc>
+<lastmod>2020-01-12T06:18:16-06:00</lastmod>
 </url>
 <url>
 <loc>https://imvladikon.github.io/blog-hashtag/jupyter/2020/02/20/test.html</loc>
